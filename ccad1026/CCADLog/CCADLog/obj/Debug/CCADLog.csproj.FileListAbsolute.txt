@@ -1,0 +1,132 @@
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\ApplicationInsights.config
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\csc.exe
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\System.Collections.Immutable.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\vbc.exe
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe.config
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\CCADLog.dll.config
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\CCADLog.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\CCADLog.pdb
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.Web.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.Web.xml
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.xml
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.xml
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\obj\Debug\CCADLog.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\obj\Debug\CCADLog.dll
+c:\users\luke\documents\visual studio 2015\Projects\CCADLog\CCADLog\obj\Debug\CCADLog.pdb
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\ApplicationInsights.config
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\csc.exe
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\vbc.exe
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\CCADLog.dll.config
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\CCADLog.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\CCADLog.pdb
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.Web.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.Web.xml
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\obj\Debug\CCADLog.dll
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\obj\Debug\CCADLog.pdb
+C:\Users\dmnt123\Desktop\CCADLog\CCADLog\obj\Debug\CCADLog.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\ApplicationInsights.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\csc.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\vbc.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\CCADLog.dll.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\CCADLog.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\CCADLog.pdb
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.Web.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.Web.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\obj\Debug\CCADLog.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\obj\Debug\CCADLog.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1013\CCADLog\CCADLog\obj\Debug\CCADLog.pdb
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\ApplicationInsights.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\csc.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\vbc.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\CCADLog.dll.config
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\CCADLog.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\CCADLog.pdb
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.Web.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.Web.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\obj\Debug\CCADLog.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\obj\Debug\CCADLog.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\ccad1017\CCADLog\CCADLog\obj\Debug\CCADLog.pdb

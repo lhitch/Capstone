@@ -1,0 +1,49 @@
+﻿html {
+    font-size: 100%;
+}
+
+html, body, #form1 {
+    width: 99%;
+    height: 98%;
+}
+
+body {
+    background: linear-gradient(#ccc, #6fa8dc);
+}
+
+#log {
+    height: 10%;
+    width: 100%;
+    border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.cell {
+    font-size: .9rem;
+    font-size: 2vmin;
+    border: 1px solid black;
+}
+
+.field {
+    font-size: .9rem;
+    font-size: 2vmin;
+    height: 70%;
+    width: 90%;
+}
+
+.button , .ovenButton {
+    font-size: 1rem;
+    font-size: 2.2vmin;
+    background: linear-gradient(#666, #ccc 50%, #666);
+    border-radius: 10%;
+    border: .2rem solid #444;
+}
+
+.ovenButton {
+    font-size: 2rem;
+    font-size: 4.4vmin;
+    margin: 2%;
+    height: 40%;
+    width: 20%;
+}
+
